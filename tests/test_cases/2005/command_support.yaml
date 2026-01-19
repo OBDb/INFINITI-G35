@@ -1,5 +1,11 @@
-model_year: 2004
+model_year: 2005
+supported_commands_by_ecu: {}
 unsupported_commands_by_ecu:
+  "686A":
+  - 686A.0104|p=9141-2:LOAD_PCT
+  - 686A.0105|p=9141-2:ECT
+  - 686A.0110|p=9141-2:MAF
+  - 686A.0111|p=9141-2:TP
   "743":
   - 743.763.220E01|fc=1:INFINITI_ODO
   - 743.763.220E25|fc=1:INFINITI_TP_FR
