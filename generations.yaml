@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Infiniti_G35"
+
 generations:
   - name: "First Generation (V35) Coupe"
     start_year: 2003
